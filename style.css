@@ -21,3 +21,13 @@
   align-items: center;
   justify-content: center;
 }
+
+.col-3 {
+  display: flex;
+  flex: 3;
+  background-color: cyan;
+  margin: 0 5px 5px;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+}
